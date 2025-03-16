@@ -47,9 +47,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alexa_BotUpdates")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/unknown_hu_vroo")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alexa_Help")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+HFxcwsGO6IQxNWQ9")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -108,47 +108,47 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/d593c6064ff7657d0c714.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/rca1m3.jpg"
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "assets/Ping.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "assets/Playlist.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "assets/Global.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "assets/Stats.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "assets/Audio.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "assets/Video.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "assets/Stream.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "assets/Soundcloud.jpeg",
+    "https://files.catbox.moe/9cevdg.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
